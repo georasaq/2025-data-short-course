@@ -142,7 +142,7 @@ Please add your name, organization, GitHub username, and link to GitHub portfoli
 | Jack Shaw (Student)      | CU Boulder       | jackolivershaw | [https://jackolivershaw.github.io/](https://jackolivershaw.github.io) |
 | Courtney King (Student) | Michigan Technological University | courtney-l-king | [https://courtney-l-king.github.io/](https://courtney-l-king.github.io/) |
 | [Mwangi M Ndegwa](https://namedrop.io/martinmwangi) (Student) | Arizona State University | mwangimndegwa | [https://mwangimndegwa.github.io](https://mwangimndegwa.github.io) |
-
+|[Owolabi Rasaq Rahman])(Researcher) | [Achievers University Owo. Nigeria](https://admission.achievers.edu.ng/)  | georasaq | [https://georasaq.github.io/georasaq//](https://georasaq.github.io/georasaq/) |
 
 
 # **Code of Conduct** 
